@@ -4,4 +4,5 @@ void main(){
 	string a;
 	string we;
 	string c;
+	int d;
 }
